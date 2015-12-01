@@ -31,7 +31,7 @@ var FIELDNAME_DESC3 = ["shooting_date"];
 var FIELDNAME_DESC4 = ["create_date"];
 //var FIELDNAME_DESC5 = ["Desc5"];
 var FIELDNAME_ID = ["id"];
-var FIELDNAME_TAB = ["tab"];
+//var FIELDNAME_TAB = ["tab"];
 
 var _lutIconSpecs = {
 	tiny:new IconSpecs(22,28,3,8),
