@@ -17,10 +17,11 @@ var LEFT_PANE_WIDTH_THREE_COLUMN = 485;
 
 var TWO_COLUMN_THRESHOLD = 960;
 
-var FIELDNAME_NUMBER = ["Number"];
-var FIELDNAME_TITLE = ["Title"];
-var FIELDNAME_SHORTDESC = ["Short_desc"];
-var FIELDNAME_IMAGEURL = ["Image_URL"];
+var FIELDNAME_NUMBER = ["id"];
+var FIELDNAME_TITLE = ["title"];
+//var FIELDNAME_SHORTDESC = ["Short_desc"];
+var FIELDNAME_IMAGEURL = ["photo_url"];
+/*
 var FIELDNAME_ADDRESS = ["Address"];
 var FIELDNAME_HOURS = ["Hours"];
 var FIELDNAME_WEBSITE = ["Website"];
@@ -29,8 +30,9 @@ var FIELDNAME_DESC2 = ["Desc2"];
 var FIELDNAME_DESC3 = ["Desc3"];
 var FIELDNAME_DESC4 = ["Desc4"];
 var FIELDNAME_DESC5 = ["Desc5"];
-var FIELDNAME_ID = ["Shortlist_ID"];
-var FIELDNAME_TAB = ["Tab_Name"];
+*/
+//var FIELDNAME_ID = ["Shortlist_ID"];
+//var FIELDNAME_TAB = ["Tab_Name"];
 
 var _lutIconSpecs = {
 	tiny:new IconSpecs(22,28,3,8),
