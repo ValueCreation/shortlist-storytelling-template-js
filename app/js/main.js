@@ -19,19 +19,19 @@ var TWO_COLUMN_THRESHOLD = 960;
 
 var FIELDNAME_NUMBER = ["id"];
 var FIELDNAME_TITLE = ["title"];
-var FIELDNAME_SHORTDESC = ["Short_desc"];
+//var FIELDNAME_SHORTDESC = ["Short_desc"];
 var FIELDNAME_IMAGEURL = ["photo_url"];
 var FIELDNAME_ADDRESS = ["place"];
 //id	title	name	comment	place	photo_url	shooting_date	create_date	lat	lon
-var FIELDNAME_HOURS = ["Hours"];
-var FIELDNAME_WEBSITE = ["Website"];
+//var FIELDNAME_HOURS = ["Hours"];
+//var FIELDNAME_WEBSITE = ["Website"];
 var FIELDNAME_DESC1 = ["name"];
 var FIELDNAME_DESC2 = ["comment"];
 var FIELDNAME_DESC3 = ["shooting_date"];
 var FIELDNAME_DESC4 = ["create_date"];
-var FIELDNAME_DESC5 = ["Desc5"];
+//var FIELDNAME_DESC5 = ["Desc5"];
 var FIELDNAME_ID = ["id"];
-var FIELDNAME_TAB = ["title"];
+var FIELDNAME_TAB = ["tab"];
 
 var _lutIconSpecs = {
 	tiny:new IconSpecs(22,28,3,8),
