@@ -30,7 +30,7 @@ var FIELDNAME_DESC2 = ["comment"];
 var FIELDNAME_DESC3 = ["shooting_date"];
 var FIELDNAME_DESC4 = ["create_date"];
 //var FIELDNAME_DESC5 = ["Desc5"];
-//var FIELDNAME_ID = ["Shortlist_ID"];
+var FIELDNAME_ID = ["id"];
 var FIELDNAME_TAB = ["title"];
 
 var _lutIconSpecs = {
