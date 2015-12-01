@@ -21,16 +21,15 @@ var FIELDNAME_NUMBER = ["id"];
 var FIELDNAME_TITLE = ["title"];
 //var FIELDNAME_SHORTDESC = ["Short_desc"];
 var FIELDNAME_IMAGEURL = ["photo_url"];
-/*
-var FIELDNAME_ADDRESS = ["Address"];
-var FIELDNAME_HOURS = ["Hours"];
-var FIELDNAME_WEBSITE = ["Website"];
-var FIELDNAME_DESC1 = ["Desc1"];
-var FIELDNAME_DESC2 = ["Desc2"];
-var FIELDNAME_DESC3 = ["Desc3"];
-var FIELDNAME_DESC4 = ["Desc4"];
-var FIELDNAME_DESC5 = ["Desc5"];
-*/
+var FIELDNAME_ADDRESS = ["place"];
+//id	title	name	comment	place	photo_url	shooting_date	create_date	lat	lon
+//var FIELDNAME_HOURS = ["Hours"];
+//var FIELDNAME_WEBSITE = ["Website"];
+var FIELDNAME_DESC1 = ["name"];
+var FIELDNAME_DESC2 = ["comment"];
+var FIELDNAME_DESC3 = ["shooting_date"];
+var FIELDNAME_DESC4 = ["create_date"];
+//var FIELDNAME_DESC5 = ["Desc5"];
 //var FIELDNAME_ID = ["Shortlist_ID"];
 //var FIELDNAME_TAB = ["Tab_Name"];
 
