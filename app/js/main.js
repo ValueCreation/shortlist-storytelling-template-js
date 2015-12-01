@@ -17,7 +17,7 @@ var LEFT_PANE_WIDTH_THREE_COLUMN = 485;
 
 var TWO_COLUMN_THRESHOLD = 960;
 
-var FIELDNAME_NUMBER = ["FID"];
+var FIELDNAME_NUMBER = ["id"];
 var FIELDNAME_TITLE = ["title"];
 //var FIELDNAME_SHORTDESC = ["Short_desc"];
 var FIELDNAME_IMAGEURL = ["photo_url"];
