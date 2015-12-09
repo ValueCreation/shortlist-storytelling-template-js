@@ -75,7 +75,7 @@ a:hover{
 
 #title {
 	font-family: 'open_sanssemibold', sans-serif;
-	font-size:20px;
+	font-size:40px;
 	font-weight:bold;
 	text-align:left;
 	white-space: nowrap;  
@@ -96,7 +96,7 @@ a:hover{
 
 #logoArea{
 	float:right;
-	padding-top:15px;
+	padding-top:1px;
 	padding-right:25px;
 	text-align:right;
 }
@@ -122,13 +122,15 @@ a:hover{
 #logoImg{
 	border:none;
 	outline:none;
+    width: 230px;
+    height: 80px;
 }
 
 /*
  * Social sharing
  */
 #social{
-	margin-bottom:20px;
+	margin-bottom:10px;
 }
 
 @font-face {
